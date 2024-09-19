@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Giuliana Castillo ☕💻</h1>
-<h3 align="center">Soy una estudiante y futura programadora actualmente estoy formandome en un grado superior de Desarrollo de aplicaciones multiplataforma (DAM) y quiero seguir formandome sobre todo este mundito</h3>
+<h3 align="center">Soy una estudiante y futura programadora actualmente estoy formandome en un grado superior de Desarrollo de aplicaciones Web (DAW) y quiero seguir formandome sobre todo este mundito, hace poco termine mis estudios de DAM pero ese es solo el principio.</h3>
 
 <p align="center">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoZGhyNWl1eTdzZDVndXN6M3Y4b3F1aHBnNGt2ZXhsOTRrejhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="100px" height="100px" alt="sql" />
