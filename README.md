@@ -1,67 +1,54 @@
-<h1 align="center">Hola 👋, me llamo Giuliana Castillo ☕💻</h1>
-<h3 align="center">Soy una estudiante y futura programadora actualmente estoy formandome en un grado superior de Desarrollo de aplicaciones Web (DAW) y quiero seguir formandome sobre todo este mundito, hace poco termine mis estudios de DAM pero ese es solo el principio.</h3>
+<h1 align="center">¡Hola! 👋 Soy Giuliana Castillo</h1>
+<h3 align="center">Estudiante apasionada por el desarrollo web y el aprendizaje continuo 💻☕</h3>
 
 <p align="center">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoZGhyNWl1eTdzZDVndXN6M3Y4b3F1aHBnNGt2ZXhsOTRrejhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="100px" height="100px" alt="sql" />
-   <img src="http://wiki.stat.ucla.edu/socr/uploads/a/a2/JAVA_animated.gif" width="100px" height="100px" alt="java" />
-   <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100px" height="100px" alt="python" />
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoZGhyNWl1eTdzZDVndXN6M3Y4b3F1aHBnNGt2ZXhsOTRrejhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="90px" alt="coding gif" />
+   <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90px" alt="python" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90px" alt="java" />
 </p>
 
-- 🌱 Quiero seguir estudiando y progresando
+---
 
-- 💬 Soy bastante sociable y trabajo bien en equipo
+🎓 **Actualmente** estoy estudiando un Grado Superior en Desarrollo de Aplicaciones Web (DAW).  
+✅ **Finalicé** mis estudios en Desarrollo de Aplicaciones Multiplataforma (DAM).  
+🚀 Este es solo el comienzo… me encanta aprender y superarme cada día.
 
-- 🧠 Me apasiona todo lo que haga que me coma la cabeza
+🧠 Me apasiona todo lo que me reta mentalmente.  
+🤝 Disfruto trabajar en equipo y compartir lo que aprendo.  
+📚 Siempre tengo ganas de aprender algo nuevo, sobre todo en programación, frameworks y bases de datos.
 
-<h3 align="left">Languages:</h3>
+---
+
+<h3 align="left">🌐 Tecnologías con las que trabajo:</h3>
+
 <p align="left">
-   <a href="https://www.w3.org/html/" target="_blank">
-      <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="html5"
-         width="100"
-         height="80"
-      />
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5"/>
    </a>
-
-   <a href="https://www.w3schools.com/css/" target="_blank">
-      <img
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-         alt="css3"
-         width="100"
-         height="80"
-      />
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS3"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript"
-         width="100"
-         height="80"
-      />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-         alt="mysql"
-         width="100"
-         height="80"
-      />
+   <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-    <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    alt="java"
-    width="100"
-    height="80"/>
-          
+   <a href="https://www.java.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
    </a>
-   <a href="https://nodejs.org" target="_blank">
-      <img 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-         alt="csharp"
-         width="100"
-         height="80"
-      />
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
+   </a>
+   <a href="https://www.python.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
    </a>
 </p>
+
+---
+
+✨ *Siempre lista para afrontar nuevos desafíos, compartir ideas y seguir creciendo en este maravilloso mundo tech.*  
+📫 ¿Charlamos? ¡Estoy abierta a nuevas oportunidades, prácticas o colaboraciones!
+
+---
+
