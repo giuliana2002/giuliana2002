@@ -1,20 +1,22 @@
-<h1 align="center">Bienvenidos a el porfolio de Giuliana Castillo</h1>
+<h1 align="center">Bienvenidos al porfolio de Giuliana Castillo</h1>
 <h3 align="center">Desarrolladora Fullstack</h3>
 
 <p align="center">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoZGhyNWl1eTdzZDVndXN6M3Y4b3F1aHBnNGt2ZXhsOTRrejhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="90px" alt="coding gif" />
    <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90px" alt="python" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90px" alt="java" />
-   <
 </p>
 
 ---
 
-Después de 4 años que se me han pasado volando, puedo decir que tengo conocimientos tanto de frontend como de backend, tras terminar mis estudios de DAM y DAW.
+Llevo 4 años programando (y se me han pasado volando). Terminé DAM y DAW, así que me muevo tanto en frontend como en backend.
 
-Tengo muchas ganas de poner en práctica todo lo que he aprendido y seguir mejorando, porque estos 4 años han sido solo el principio. La programación es un mundo enorme y todavía me queda mucho por descubrir, pero estudio cada día para estar actualizada en todos los sectores, actualmente estoy haciendo proyectos desarrollando agentes y haciendo cursos sobre la IA, para estar siempre en lo ultimo.
+Ahora tengo muchas ganas de poner en práctica todo lo que he aprendido y seguir mejorando, porque sé que esto es solo el principio. La programación es un mundo enorme y me queda muchísimo por descubrir, por eso intento aprender algo nuevo cada día.
 
-Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente relacionadas con la programación, los frameworks y las bases de datos.
+Últimamente estoy metida de lleno en la IA: hago cursos y estoy desarrollando proyectos con agentes, porque me gusta estar al día de lo último.
+
+Me gustan los retos, trabajar en equipo y aprender cosas nuevas, sobre todo si tienen que ver con frameworks y bases de datos.
+
 <!-- Frontend -->
 <h4>Frontend</h4>
 <p align="left">
@@ -42,10 +44,19 @@ Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente r
    <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/>
    </a>
+   <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
+   </a>
+   <a href="https://nextjs.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js"/>
+   </a>
+   <a href="https://www.figma.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
+   </a>
 </p>
 
 <!-- Backend -->
-<h4> Backend</h4>
+<h4>Backend</h4>
 <p align="left">
    <a href="https://www.java.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
@@ -68,10 +79,22 @@ Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente r
    <a href="https://www.php.net/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
    </a>
+   <a href="https://laravel.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" alt="Laravel"/>
+   </a>
+   <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" alt="Django"/>
+   </a>
+   <a href="https://fastapi.tiangolo.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" alt="FastAPI"/>
+   </a>
+   <a href="https://hibernate.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="60" alt="Hibernate"/>
+   </a>
 </p>
 
 <!-- Bases de datos -->
-<h4> Bases de datos</h4>
+<h4>Bases de datos</h4>
 <p align="left">
    <a href="https://www.mysql.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
@@ -85,10 +108,16 @@ Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente r
    <a href="https://www.sqlite.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" alt="SQLite"/>
    </a>
+   <a href="https://firebase.google.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="60" alt="Firebase"/>
+   </a>
+   <a href="https://supabase.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" alt="Supabase"/>
+   </a>
 </p>
 
 <!-- Movil -->
-<h4> Desarrollo móvil</h4>
+<h4>Desarrollo móvil</h4>
 <p align="left">
    <a href="https://developer.android.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" alt="Android"/>
@@ -102,7 +131,7 @@ Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente r
 </p>
 
 <!-- Herramientas -->
-<h4> Herramientas y control de versiones</h4>
+<h4>Herramientas y control de versiones</h4>
 <p align="left">
    <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
@@ -122,6 +151,25 @@ Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente r
    <a href="https://www.eclipse.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60" alt="Eclipse"/>
    </a>
+   <a href="https://www.docker.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/>
+   </a>
+   <a href="https://www.postman.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" alt="Postman"/>
+   </a>
+   <a href="https://www.linux.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/>
+   </a>
 </p>
----
 
+<!-- IA -->
+<h4>Inteligencia artificial</h4>
+<p align="left">
+   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI API"/>
+   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API"/>
+   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+---
