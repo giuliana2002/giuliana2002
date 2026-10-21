@@ -1,22 +1,22 @@
-<h1 align="center">¡Hola! 👋 Soy Giuliana Castillo</h1>
-<h3 align="center">Programadora Backend siempre activa y creando nuevas ideas💻☕</h3>
+<h1 align="center">Bienvenidos a el porfolio de Giuliana Castillo</h1>
+<h3 align="center">Desarrolladora Fullstack</h3>
 
 <p align="center">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoZGhyNWl1eTdzZDVndXN6M3Y4b3F1aHBnNGt2ZXhsOTRrejhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="90px" alt="coding gif" />
    <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90px" alt="python" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90px" alt="java" />
+   <
 </p>
 
 ---
 
-🎓 **Actualmente**  Ya puedo decir despues de 4 años que cortos se me hiceron que tengo habilidades tanto de front como de back ya que termine mis estudios en DAM y posteriormente en DAW.  
-🚀 Estare encantada de demostrar el desarrollo mental de estos 4 años que solo han sido la base ya que la programacion es un mundo muy amplio.
+Después de 4 años que se me han pasado volando, puedo decir que tengo conocimientos tanto de frontend como de backend, tras terminar mis estudios de DAM y DAW.
 
-🧠 Me apasiona todo lo que me reta mentalmente.  
-🤝 Disfruto trabajar en equipo y compartir lo que aprendo.  
-📚 Siempre tengo ganas de aprender algo nuevo, sobre todo en programación, frameworks y bases de datos.
+Tengo muchas ganas de poner en práctica todo lo que he aprendido y seguir mejorando, porque estos 4 años han sido solo el principio. La programación es un mundo enorme y todavía me queda mucho por descubrir, pero estudio cada día para estar actualizada en todos los sectores, actualmente estoy haciendo proyectos desarrollando agentes y haciendo cursos sobre la IA, para estar siempre en lo ultimo.
+
+Me gustan los retos, trabajar en equipo y aprender cosas nuevas, especialmente relacionadas con la programación, los frameworks y las bases de datos.
 <!-- Frontend -->
-<h4>🖌️ Frontend</h4>
+<h4>Frontend</h4>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
@@ -45,7 +45,7 @@
 </p>
 
 <!-- Backend -->
-<h4>⚙️ Backend</h4>
+<h4> Backend</h4>
 <p align="left">
    <a href="https://www.java.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
@@ -71,7 +71,7 @@
 </p>
 
 <!-- Bases de datos -->
-<h4>🗄️ Bases de datos</h4>
+<h4> Bases de datos</h4>
 <p align="left">
    <a href="https://www.mysql.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
@@ -88,7 +88,7 @@
 </p>
 
 <!-- Movil -->
-<h4>📱 Desarrollo móvil</h4>
+<h4> Desarrollo móvil</h4>
 <p align="left">
    <a href="https://developer.android.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" alt="Android"/>
@@ -102,7 +102,7 @@
 </p>
 
 <!-- Herramientas -->
-<h4>🛠️ Herramientas y control de versiones</h4>
+<h4> Herramientas y control de versiones</h4>
 <p align="left">
    <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
@@ -123,11 +123,5 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60" alt="Eclipse"/>
    </a>
 </p>
-
-
-
-✨ *Siempre lista para afrontar nuevos desafíos, compartir ideas y seguir creciendo en este maravilloso mundo tech.*  
-📫 ¿Charlamos? ¡Estoy abierta a nuevas oportunidades, prácticas o colaboraciones!
-
 ---
 
