@@ -1,175 +1,66 @@
-<h1 align="center">Bienvenidos al porfolio de Giuliana Castillo</h1>
-<h3 align="center">Desarrolladora Fullstack</h3>
+<img src="assets/banner.png" alt="Giuliana Castillo, desarrolladora full stack junior" width="100%">
 
-<p align="center">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpoZGhyNWl1eTdzZDVndXN6M3Y4b3F1aHBnNGt2ZXhsOTRrejhibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="90px" alt="coding gif" />
-   <img src="https://media2.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90px" alt="python" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90px" alt="java" />
+Hola, soy Giuliana. Estudié DAM y luego DAW, y hice prácticas en **Quantum** (Java, Spring Boot y APIs REST, donde acabé coordinando un proyecto de gamificación) y en **Grupo Oro** (PHP y Laravel).
+
+Lo que más me gusta es el backend: pensar bien los datos, que la API sea segura y que el código se pueda mantener. Pero me gusta terminar las cosas, así que también me peleo con el frontend y con el despliegue.
+
+Ahora mismo busco mi primer puesto como desarrolladora junior, en remoto o en Sevilla.
+
+<br>
+
+## Palabra
+
+**App web para aprender inglés en 31 días.** Sesión diaria de unos 25 minutos, repaso espaciado (lo que fallas vuelve antes), ejercicios de pronunciación con reconocimiento de voz que marcan palabra a palabra lo que no se ha entendido, y estadísticas de progreso. Funciona sin servidor ni registro y se instala como app en el móvil.
+
+<img src="assets/palabra.png" alt="Palabra en el ordenador y en el móvil" width="100%">
+
+El detalle del que más orgullosa estoy: en un Windows en español sin voces en inglés, el navegador leía las frases en inglés con la voz española. Ahora Palabra solo usa voces inglesas y, si no hay ninguna, desactiva el audio y te explica cómo instalar una.
+
+`React` `TypeScript` `Zustand` `Vitest (154 tests)` `GitHub Actions` · [Probarla](https://giuliana2002.github.io/Palabra/) · [Código](https://github.com/giuliana2002/Palabra)
+
+<br>
+
+## Rally fotográfico
+
+**Plataforma para organizar concursos de fotografía.** Proyecto final de DAW. Registro e inicio de sesión con JWT y roles, subida de fotos a Cloudinary, votación pública limitada a un voto por persona y panel de administración para validar fotos, gestionar participantes y crear rallys. Lo desplegué yo misma en un servidor de DigitalOcean.
+
+<img src="assets/rally-inicio.png" alt="Página de inicio del Rally fotográfico" width="92%">
+
+> *"25 de mayo: implementé la parte de admin, pero lo de validar las fotos ha costado. Se solucionó y ya tengo una aplicación decente."*
+> Fragmento de mi [diario de desarrollo](https://github.com/giuliana2002/frontend-rally/blob/main/DIARIO.md)
+
+`Node.js` `Express` `MySQL` `JWT` `Cloudinary` `Bootstrap` · [Backend](https://github.com/giuliana2002/rally-foto-backend) · [Frontend](https://github.com/giuliana2002/frontend-rally)
+
+<br>
+
+## SaaS de pedidos por QR
+
+**Mi proyecto actual.** Los clientes de un bar piden desde la mesa escaneando un QR, el camarero tiene su panel y la cocina ve qué está pendiente, en preparación o listo. Cada bar solo accede a sus datos y los permisos se validan en el servidor. El repositorio es privado.
+
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `JUnit` `React` `TypeScript`
+
+<br>
+
+## Con lo que trabajo
+
+<p>
+  <img src="https://img.shields.io/badge/Java-10303d?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-10303d?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PHP-10303d?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-10303d?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Node.js-10303d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-10303d?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-10303d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-10303d?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/React-10303d?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-10303d?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Docker-10303d?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-10303d?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-10303d?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 </p>
 
----
+Últimamente estoy aprendiendo a montar agentes de IA y a usar LLMs en local con Ollama, y a meter IA en backends Java con Spring AI. Iré subiendo aquí lo que salga.
 
-Llevo 4 años programando (y se me han pasado volando). Terminé DAM y DAW, así que me muevo tanto en frontend como en backend.
+<br>
 
-Ahora tengo muchas ganas de poner en práctica todo lo que he aprendido y seguir mejorando, porque sé que esto es solo el principio. La programación es un mundo enorme y me queda muchísimo por descubrir, por eso intento aprender algo nuevo cada día.
-
-Últimamente estoy metida de lleno en la IA: hago cursos y estoy desarrollando proyectos con agentes, porque me gusta estar al día de lo último.
-
-Me gustan los retos, trabajar en equipo y aprender cosas nuevas, sobre todo si tienen que ver con frameworks y bases de datos.
-
-<!-- Frontend -->
-<h4>Frontend</h4>
-<p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
-   </a>
-   <a href="https://react.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
-   </a>
-   <a href="https://angular.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60" alt="Angular"/>
-   </a>
-   <a href="https://vuejs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
-   </a>
-   <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" alt="TailwindCSS"/>
-   </a>
-   <a href="https://getbootstrap.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/>
-   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
-   </a>
-   <a href="https://nextjs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js"/>
-   </a>
-   <a href="https://www.figma.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="Figma"/>
-   </a>
-</p>
-
-<!-- Backend -->
-<h4>Backend</h4>
-<p align="left">
-   <a href="https://www.java.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
-   </a>
-   <a href="https://spring.io/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring Boot"/>
-   </a>
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
-   </a>
-   <a href="https://dotnet.microsoft.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" alt=".NET"/>
-   </a>
-   <a href="https://nodejs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
-   </a>
-   <a href="https://www.python.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-   </a>
-   <a href="https://www.php.net/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
-   </a>
-   <a href="https://laravel.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" alt="Laravel"/>
-   </a>
-   <a href="https://www.djangoproject.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" alt="Django"/>
-   </a>
-   <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" alt="FastAPI"/>
-   </a>
-   <a href="https://hibernate.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="60" alt="Hibernate"/>
-   </a>
-</p>
-
-<!-- Bases de datos -->
-<h4>Bases de datos</h4>
-<p align="left">
-   <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
-   </a>
-   <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"/>
-   </a>
-   <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/>
-   </a>
-   <a href="https://www.sqlite.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" alt="SQLite"/>
-   </a>
-   <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="60" alt="Firebase"/>
-   </a>
-   <a href="https://supabase.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" alt="Supabase"/>
-   </a>
-</p>
-
-<!-- Movil -->
-<h4>Desarrollo móvil</h4>
-<p align="left">
-   <a href="https://developer.android.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" alt="Android"/>
-   </a>
-   <a href="https://flutter.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" alt="Flutter"/>
-   </a>
-   <a href="https://kotlinlang.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" alt="Kotlin"/>
-   </a>
-</p>
-
-<!-- Herramientas -->
-<h4>Herramientas y control de versiones</h4>
-<p align="left">
-   <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
-   </a>
-   <a href="https://github.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
-   </a>
-   <a href="https://gitlab.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" alt="GitLab"/>
-   </a>
-   <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/>
-   </a>
-   <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" alt="IntelliJ IDEA"/>
-   </a>
-   <a href="https://www.eclipse.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="60" alt="Eclipse"/>
-   </a>
-   <a href="https://www.docker.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/>
-   </a>
-   <a href="https://www.postman.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" alt="Postman"/>
-   </a>
-   <a href="https://www.linux.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/>
-   </a>
-</p>
-
-<!-- IA -->
-<h4>Inteligencia artificial</h4>
-<p align="left">
-   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI API"/>
-   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API"/>
-   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
----
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/giuliana-castillo) · [Portfolio](https://giulianacastillo.vercel.app) · giuliana2015gc@gmail.com
